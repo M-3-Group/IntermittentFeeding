@@ -14,11 +14,11 @@ This code uses the numerical method we describe in the paper to solve the equati
 
 ### Data 2: data-behind-figure-3and4.zip
 
-This folder comprises the exact data (in JSON format) plotted in figures 3 and 4, generated with the code "in File 2". However, this is not the rawdata that is loaded when running the Output Analysis in "File 2."
+This folder comprises the exact data (in JSON format) plotted in figures 3 and 4, generated with the code within "File 2". However, this is not the rawdata that is loaded when running the Output Analysis in "File 2."
 
 ## File 3: Noisy Intermittent Feeding - 2 types.nb
 
-This code extend the File 1 in order to include dispersal noise. (This is the code behind figure 5 and S8)
+This code extends the "File 1" in order to include dispersal noise. (This is the code behind figure 5 and S8)
 
 ### Data 3: Noise-heatmap-data.zip
 
