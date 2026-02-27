@@ -1,5 +1,6 @@
 # IntermittentFeeding
 Codes for the paper "Modulating microbial intake helps to maintain the gut microbiome diversity" by Vitor M. Marquioni, Ann-Cathrin Hofacker, Jocksan V. Villavicencio, and Florence Bansept
+Available on Zenodo: 10.5281/zenodo.18802498
 
 ## File 1: Intermittent Feeding - 2 types.nb
 This code integrates the dynamics for a two microbial types case. It also calculates the heatmap the time-averaged Shannon diversity, identifying the Optimal Feeding Strategy and calculating its linear approximation. (This is the code behind figures 1 and 2)
